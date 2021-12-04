@@ -1,0 +1,17 @@
+# Ignore everything
+# in this directory
+
+*.exe
+*.xml
+*.gcda
+*.gcno
+
+# Except this file
+!.gitignore
+
+
+
+
+
+
+
