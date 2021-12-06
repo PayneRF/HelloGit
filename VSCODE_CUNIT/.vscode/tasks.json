@@ -8,6 +8,7 @@
 			"args": [
 				"-fprofile-arcs",
 				"-ftest-coverage",
+				"-g",
 				"${workspaceFolder}\\*.c",
 				"${workspaceFolder}\\Source\\*.c",
                 "-o",
